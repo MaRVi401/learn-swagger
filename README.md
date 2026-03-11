@@ -66,7 +66,7 @@ Beberapa konsep backend yang saya implementasikan dalam proyek ini:
 
 # 💻 Tech Stack
 
-- **Framework:** Laravel 11  
+- **Framework:** Laravel 12  
 - **API Documentation:** L5-Swagger  
 - **Debugging Tool:** Laravel Telescope  
 - **Database:** PostgreSQL / MySQL
